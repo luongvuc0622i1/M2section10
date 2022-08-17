@@ -13,8 +13,8 @@ class MyListTest {
         System.out.println(listInteger);
         System.out.println(listInteger.size());
         System.out.println(listInteger.clone());
-        listInteger.contains(listInteger); ///
-        listInteger.ensureCapacity(10); ///
+        System.out.println(listInteger.contains(2));
+        listInteger.ensureCapacity(10);
         System.out.println(listInteger.get(1));
         listInteger.clear();
         System.out.println(listInteger);
