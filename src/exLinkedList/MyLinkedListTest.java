@@ -1,6 +1,4 @@
-package myLinkedList;
-
-import static org.junit.jupiter.api.Assertions.*;
+package exLinkedList;
 
 class MyLinkedListTest {
     public static void main(String[] args) {
